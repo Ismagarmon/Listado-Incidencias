@@ -1,1 +1,1 @@
-web: uwsgi uwsgi.ini
+web: vendor/bin/heroku-php-apache2
