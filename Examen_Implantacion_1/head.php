@@ -36,7 +36,7 @@ print'
                 			<a href="index.php" class="active"><span class="l"></span><span class="r"></span><span class="t">Inicio</span></a>
                 		</li>
                                 <li>
-                			<a href="introduccion.php" class="active"><span class="l"></span><span class="r"></span><span class="t">Explicacion Ejercicio</span></a>
+                			<a href="Introduccion.php" class="active"><span class="l"></span><span class="r"></span><span class="t">Explicacion Ejercicio</span></a>
                 		</li>
                                 <li>
                 			<a href="alta.php" class="active"><span class="l"></span><span class="r"></span><span class="t">Alta Incidencia</span></a>
